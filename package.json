@@ -1,0 +1,14 @@
+{
+  "name": "catalog-api-v2",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Week 4 Catalog API v2 starter (SQLite + Auth)",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.5.0",
+    "express": "^4.19.2"
+  }
+}
